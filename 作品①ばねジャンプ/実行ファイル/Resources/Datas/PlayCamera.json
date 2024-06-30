@@ -1,0 +1,11 @@
+{
+"MaxOffSet_X":2.5,
+"MaxOffSet_Z":10.0,
+"MinOffSet_Z":0.0,
+"OffSet":[
+2.5,
+7.0,
+0.0
+],
+"TargetDistance":1.0
+}
